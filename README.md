@@ -2,9 +2,9 @@
 
 Dear Recruiting mananger
 
-  Welcome to Runqiu(Paul)'s python coding samples.
+\tWelcome to Runqiu(Paul)'s python coding samples.
 
-  Black_white_comparision and Inside_trade_ml contain my scripts for my Inside trading graduate thesis
+  Black_white_comparision.ipynb and Inside_trade_ml.ipynb contain my scripts for my Inside trading graduate thesis
 
   Topic_models is a NLP project focus on topic models
 
